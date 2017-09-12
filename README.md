@@ -3,9 +3,9 @@
 # Usage
 1. Install .
 ```javascript
-npm install
+npm install handy-log
 OR
-yarn
+yarn add handy-log
 ```
 
 2. Use it.
