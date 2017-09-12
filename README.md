@@ -13,6 +13,8 @@ hl.rainbow('Logs it as a rainbow')
 hl.radar('Logs it as a radar')
 hl.success('Recommeded for success logs')
 hl.error('Recommended for error logs')
+console.log(h1.s('Log success mssgs like this also'))
+console.log(h1.e('Log error mssgs like this also'))
 ```
 
 Used it in some of my projects, such as
