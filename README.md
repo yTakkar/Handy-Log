@@ -4,6 +4,8 @@
 1. Install .
 ```javascript
 npm install
+OR
+yarn
 ```
 
 2. Use it.
