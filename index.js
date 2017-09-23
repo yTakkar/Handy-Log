@@ -12,8 +12,6 @@ const rainbow = mssg => setTimeout(() => an.rainbow(mssg).start(), 100)
 const radar = mssg => setTimeout(() => an.radar(mssg).start(), 100)
 
 module.exports = {
-    s,
-    e,
     success,
     error,
     rainbow,
