@@ -1,6 +1,6 @@
 const
-    chalk = require('chalk'),
-    an = require('chalk-animation')
+  chalk = require('chalk'),
+  an = require('chalk-animation')
 
 const s = chalk.blue.bold
 const e = chalk.bgRed.bold
