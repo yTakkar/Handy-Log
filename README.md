@@ -1,7 +1,7 @@
 # Handy-Log
 
 # Usage
-1. Install .
+1. Install
 ```javascript
 npm install handy-log
 OR
@@ -17,6 +17,4 @@ hl.success('Recommeded for success logs')
 hl.error('Recommended for error logs')
 ```
 
-Used it in some of my projects, such as
-1. [Single-Page-Social-Network](https://github.com/yTakkar/Single-Page-Social-Network)
-2. [Vue-Notes-App](https://github.com/yTakkar/Vue-Notes-App)
+3. Enjoy!!
